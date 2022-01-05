@@ -1,5 +1,5 @@
 // here I missunderstood the problem
-// we have to consider every cell can be the potential cell of square 
+// we have to consider every cell which can be the potential cell of square
 class Solution
 {
 public:
