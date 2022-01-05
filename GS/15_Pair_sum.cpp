@@ -6,7 +6,7 @@ using namespace std;
 class Solution
 {
 public:
-    // Can simply be done by using nested loop => TC O(n^2) and SC O(1)
+    // Can simply be done by using nested for loop => TC O(n^2) and SC O(1)
     // for TC O(n) and SC O(n) => we have to store the nums[i]%k freq into  map then
     // Traversing the map and checking the 3 conditions
     // 1) if ele is 0 then the freq should be even as it will form pair with itself
